@@ -1,0 +1,5 @@
+ eEn el archivo index.html sumé el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: “Este es el sitio web de comida italliana"
+Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "comida,comida italiana, deliveri , recetas originales"
+Encabezado: para el encabezado del h1 utilicé el texto “Comida italiana, Con el mejor sabor ,  Manteniendo las mejores recetas del país de origen”
+
